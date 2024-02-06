@@ -6,10 +6,10 @@ Caso deseje testar casos de erro, é só ir no arquivo test.py e alterar os resu
 
 ## Teste sucederá
 def test_somar():
-    c = Calculadora()
-    assert c.somar(3, 5) == 8
+  c = Calculadora()
+  assert c.somar(3, 5) == 8
 
 ## Teste falhará
 def test_somar():
-    c = Calculadora()
-    assert c.somar(3, 5) == 6
+  c = Calculadora()
+  assert c.somar(3, 5) == 6
