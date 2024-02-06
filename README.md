@@ -1,4 +1,4 @@
-## testes_unitario_es1
+##testes_unitario_es1
 
 Utilizei a ferramenta do pytest (Python) para realização da atividade, para instalá-la, basta digitar no terminal "pip install pytest".
 A execução dos testes é extremamente simples, após instalar a ferramenta pytest, basta digitar no terminal "pytest .\test.py", ele vai rodar todos os testes e mostrar o resultados deles.
